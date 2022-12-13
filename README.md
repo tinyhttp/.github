@@ -22,4 +22,13 @@ _**tinyhttp**_ is a modern [Express](https://expressjs.com/)-like web framework 
 
 ## Help the project
 
+### Maintenance
+
 Even though all of the repos are maintained, we would like a helping hand. If you'd like to help maintaining any of the projects under this organization, please [dm](https://t.me/v_1rtl) or send an [e-mail](mailto:v1rtl@proton.me).
+
+### Donate
+
+You are welcome to sponsor the following developers:
+
+- [v1rtl](https://ko-fi.com/v1rtl) - owner of the org, tinyhttp, tinyws, milliparsec creator
+- [aldy505](https://github.com/sponsors/aldy505) - tinyhttp co-maintainer, malibu creator
