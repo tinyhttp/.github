@@ -32,3 +32,4 @@ You are welcome to sponsor the following developers:
 
 - [v1rtl](https://ko-fi.com/v1rtl) - owner of the org, tinyhttp, tinyws, milliparsec creator
 - [aldy505](https://github.com/sponsors/aldy505) - tinyhttp co-maintainer, malibu creator
+- [rocktimsaikia](https://github.com/sponsors/rocktimsaikia) - major tinyhttp contributor
