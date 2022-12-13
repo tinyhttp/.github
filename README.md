@@ -18,6 +18,7 @@ _**tinyhttp**_ is a modern [Express](https://expressjs.com/)-like web framework 
 - [unless](https://github.com/tinyhttp/unless) - unless middleware
 - [ping](https://github.com/tinyhttp/ping) - response time checker
 - [logger](https://github.com/tinyhttp/logger) - minimal and flexible HTTP logger
+- [bot-detector](https://github.com/tinyhttp/bot-detector) - bot detector for Node.js
 
 ## Help the project
 
