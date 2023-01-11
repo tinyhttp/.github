@@ -5,7 +5,7 @@ _**tinyhttp**_ is a modern [Express](https://expressjs.com/)-like web framework 
 ## Ecosystem
 
 - [tinyhttp](https://github.com/tinyhttp/tinyhttp)
-- [tinyws](https://github.com/tinyws) - WebSocket middleware
+- [tinyws](https://github.com/tinyhttp/tinyws) - WebSocket middleware
 - [milliparsec](https://github.com/tinyhttp/milliparsec) - body parser (JSON & URLEncoded)
 - [lru-send](https://github.com/tinyhttp/lru-send) - LRU-caching for responses
 - [malibu](https://github.com/tinyhttp/malibu) - CSRF middleware
