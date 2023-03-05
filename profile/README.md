@@ -30,6 +30,7 @@ Even though all of the repos are maintained, we would like a helping hand. If yo
 
 You are welcome to sponsor the following developers:
 
-- [v1rtl](https://ko-fi.com/v1rtl) - owner of the org, tinyhttp, tinyws, milliparsec creator
+- [v1rtl](https://v1rtl.site/support) - owner of the org, tinyhttp, tinyws, milliparsec creator
 - [aldy505](https://github.com/sponsors/aldy505) - tinyhttp co-maintainer, malibu creator
 - [rocktimsaikia](https://github.com/sponsors/rocktimsaikia) - major tinyhttp contributor
+- massivefermion - swagger integration developer, eth: `0x0e76547342b7958Ec1B5A95aE63672d9117C24f2`, btc: `bc1qf3mum3qanez5t0u2rmvsh33k0lx54rdzps75f5`
